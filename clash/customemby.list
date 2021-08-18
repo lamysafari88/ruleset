@@ -1,3 +1,5 @@
 # > own
-DOMAIN,emby.saintartoria.cn
-DOMAIN,eriri.saintartoria.cn
+DOMAIN-SUFFIX,emby.saintartoria.cn
+DOMAIN-SUFFIX,eriri.saintartoria.cn
+DOMAIN-SUFFIX,sn.st8.one
+DOMAIN-SUFFIX,tk.st8.one
