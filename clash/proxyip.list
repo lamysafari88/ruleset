@@ -1,0 +1,18 @@
+# > wechat
+
+IP-CIDR,203.205.220.0/24,no-resolve
+IP-CIDR,101.32.104.0/21,no-resolve
+IP-CIDR,101.32.112.0/20,no-resolve
+IP-CIDR,101.32.128.0/19,no-resolve
+IP-CIDR,101.32.132.0/22,no-resolve
+IP-CIDR,101.32.0.0/16,no-resolve
+IP-CIDR,101.32.118.25/32,no-resolve
+IP-CIDR,101.33.104.0/21,no-resolve
+IP-CIDR,129.226.96.0/19,no-resolve
+IP-CIDR,129.226.0.0/21,no-resolve
+IP-CIDR,129.226.0.0/16,no-resolve
+IP-CIDR,150.109.90.0/23,no-resolve
+IP-CIDR,203.205.232.0/23,no-resolve
+IP-CIDR,203.205.234.0/23,no-resolve
+IP-CIDR,203.205.252.0/23,no-resolve
+IP-CIDR,203.205.254.0/23,no-resolve
