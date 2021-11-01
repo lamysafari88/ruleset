@@ -16,3 +16,4 @@ IP-CIDR,203.205.232.0/23,no-resolve
 IP-CIDR,203.205.234.0/23,no-resolve
 IP-CIDR,203.205.252.0/23,no-resolve
 IP-CIDR,203.205.254.0/23,no-resolve
+IP-CIDR,1.0.1.0/24,no-resolve
