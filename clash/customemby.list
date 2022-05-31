@@ -84,13 +84,16 @@ DOMAIN,sg.jmsooo.com
 
 
 # > own
-DOMAIN-SUFFIX,cc.st8.one
+DOMAIN-SUFFIX,sel.st8.one
+DOMAIN-SUFFIX,az.st8.one
 
 # > porn
 DOMAIN-SUFFIX,pornemby.club
 DOMAIN-SUFFIX,sczssr.xyz
 DOMAIN-SUFFIX,eden.kwz.io
 
+# > nakonako
+DOMAIN-SUFFIX,nakonako.net
 
 # > odyssey
 DOMAIN-KEYWORD,odysseyplus
@@ -98,5 +101,3 @@ DOMAIN-KEYWORD,odysseyplus
 
 # > others
 DOMAIN-KEYWORD,emby
-DOMAIN-KEYWORD,saintartoria
-DOMAIN-SUFFIX,prpr.kyarucloud.moe
