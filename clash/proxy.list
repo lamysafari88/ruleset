@@ -2,12 +2,3 @@
 DOMAIN-KEYWORD,mypikpak
 DOMAIN-KEYWORD,paofu
 
-# > wechat
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,wxapp.tc.qq.com
-DOMAIN-SUFFIX,vweixinf.tc.qq.com
-DOMAIN-SUFFIX,pay.wechat.com
-DOMAIN-SUFFIX,sgminorshort.wechat.com
-DOMAIN-SUFFIX,sgshort.wechat.com
-DOMAIN-SUFFIX,sgaxshort.wechat.com
