@@ -1,0 +1,70 @@
+# 微博
+DOMAIN,api.weibo.cn
+
+# 知乎
+IP-CIDR,103.41.167.226/8
+
+# 头条
+DOMAIN-SUFFIX,toutiaoapi.com
+
+# 抖音
+DOMAIN-KEYWORD,normal-lq
+DOMAIN-KEYWORD,normal-c-lq
+
+# 贴吧
+DOMAIN,www.baidu.com
+DOMAIN,tracker.dcdn.baidu.com
+DOMAIN,bgg.baidu.com
+DOMAIN,query.dcdn.baidu.com
+DOMAIN,afdconf.baidu.com
+DOMAIN,mbd.baidu.com
+DOMAIN,cdn.hiphotos.baidu.com
+DOMAIN,im.tieba.baidu.com
+DOMAIN,bdbus-turbonet.baidu.com
+DOMAIN,tcbox.baidu.com
+DOMAIN,tiebac.baidu.com
+
+
+#  哔哩哔哩
+USER-AGENT,Bilibili*
+USER-AGENT,bili*
+USER-AGENT,bili-inter*
+DOMAIN,apiintl.biliapi.net
+DOMAIN,api.bilibili.com
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,acg.tv
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,b23.tv
+DOMAIN-SUFFIX,bigfun.cn
+DOMAIN-SUFFIX,bigfunapp.cn
+DOMAIN-SUFFIX,biliapi.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,im9.com
+DOMAIN-SUFFIX,smtcdns.net
+
+# 哔哩哔哩海外
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,p.bstarstatic.com
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilibili.tv
+IP-CIDR,45.43.32.234/32,no-resolve
+IP-CIDR,119.29.29.29/32,no-resolve
+IP-CIDR,128.1.62.200/32,no-resolve
+IP-CIDR,128.1.62.201/32,no-resolve
+IP-CIDR,150.116.92.250/32,no-resolve
+IP-CIDR,164.52.76.18/32,no-resolve
+IP-CIDR,203.107.1.33/32,no-resolve
+IP-CIDR,203.107.1.34/32,no-resolve
+IP-CIDR,203.107.1.65/32,no-resolve
+IP-CIDR,203.107.1.66/32,no-resolve
