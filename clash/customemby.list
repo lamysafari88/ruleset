@@ -101,6 +101,11 @@ DOMAIN-SUFFIX,nakonako.net
 # > odyssey
 DOMAIN-KEYWORD,odysseyplus
 
+# > bluesea
+DOMAIN-SUFFIX,blueseacdn.com
+
+# > misakaF
+DOMAIN-SUFFIX,misakaf.org
 
 # > others
 DOMAIN-KEYWORD,emby
