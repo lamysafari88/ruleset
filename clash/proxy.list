@@ -1,4 +1,9 @@
 # > pikpak
 DOMAIN-KEYWORD,mypikpak
+DOMAIN-SUFFIX,pikpakdrive.com
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-KEYWORD,pikpak
+
+# > others
 DOMAIN-KEYWORD,paofu
 
