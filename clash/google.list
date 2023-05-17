@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,www-googletagmanager.l.google.com
 DOMAIN-SUFFIX,www.gstatic.com
 DOMAIN-SUFFIX,googleapis.com
 
+
 # 内容：GoogleCNProxyIP 谷歌中国服务 services.googleapis.cn
 # 数量：18条
 IP-CIDR,120.232.181.162/32,no-resolve
@@ -60,7 +61,8 @@ IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,220.181.174.162/32,no-resolve
 IP-CIDR,220.181.174.226/32,no-resolve
 IP-CIDR,220.181.174.34/32,no-resolve
-
+DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # 内容：GoogleEarth 谷歌地球
 # 数量：16条
 DOMAIN-SUFFIX,earth-pa.clients6.google.com
